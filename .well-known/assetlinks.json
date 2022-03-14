@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.web.catalytic_rasaoi.twa",
+                     "sha256_cert_fingerprints": ["35:AC:0A:85:60:3B:B2:BE:AC:FE:99:C7:E1:75:AE:18:E6:D1:BD:A3:2B:27:09:AA:68:2C:D6:AC:8C:8A:FA:5D"] }
+      }
+]
